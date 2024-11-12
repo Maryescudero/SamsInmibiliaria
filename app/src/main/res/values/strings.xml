@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SamsInmobiliaria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_salir">Salir</string>
+    <string name="Inmobiliaria">Inmobiliaria</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_inmuebles">Inmuebles</string>
+    <string name="menu_inquilinos">Inquilinos</string>
+    <string name="menu_contratos">Contratos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="ver_detalles">Detalles</string>
+    <string name="Detalle">Detalle</string>
+    <string name="Agregar_Nuevo_Inmueble">Agregar Nuevo Inmueble</string>
+    <string name="action_password">Cambiar Contraseña</string>
+    <string name="Pagos">Listado de Pagos</string>
+    <string name="Contratos">Contratos</string>
+    <string name="Agregar_Inmueble">Agregar Inmueble</string>
+    <string name="Inquilinos">Inquilinos</string>
+    <string name="salir">Cerrar Sesión</string>
+
+
+
+
+
+</resources>
